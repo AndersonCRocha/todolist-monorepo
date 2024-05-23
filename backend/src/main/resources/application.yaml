@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: todolist-service
+  main:
+    allow-bean-definition-overriding: true
+  jackson:
+    default-property-inclusion: non_null
+  flyway:
+    validate-migration-naming: true
+  jpa:
+    open-in-view: false
+  profiles:
+    include:
+      - database
