@@ -96,3 +96,14 @@ docker-compose up --build
 - Backend: Java, Spring Boot
 - Frontend: TypeScript, React
 - Containerização: Docker, Docker Compose
+
+<img width="600" alt="image" src="https://github.com/AndersonCRocha/todolist-monorepo/assets/59173445/8fbf6a54-e174-41f2-91e4-b6202c6e4b9c">
+<img width="600" alt="image" src="https://github.com/AndersonCRocha/todolist-monorepo/assets/59173445/f5b3ae09-5b77-4bcf-aeed-ed70000eb894">
+<img width="600" alt="image" src="https://github.com/AndersonCRocha/todolist-monorepo/assets/59173445/5d053b62-2854-4c92-b14e-d6ec37296978">
+<img width="600" alt="image" src="https://github.com/AndersonCRocha/todolist-monorepo/assets/59173445/63bdb969-3342-464a-bc5d-811ff0b9b3ca">
+<img width="600" alt="image" src="https://github.com/AndersonCRocha/todolist-monorepo/assets/59173445/58157676-9a68-46da-b8c6-1bc5055b1040">
+
+
+
+
+
